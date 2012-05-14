@@ -28,3 +28,6 @@
 [submodule "Packages/Framework/Symfony.Component.Yaml"]
 	path = Packages/Framework/Symfony.Component.Yaml
 	url = git://git.typo3.org/FLOW3/Packages/Symfony.Component.Yaml.git
+[submodule "Packages/Application/TYPO3.Queue"]
+	path = Packages/Application/TYPO3.Queue
+	url = git://git.typo3.org/FLOW3/Packages/TYPO3.Queue.git
