@@ -31,3 +31,12 @@
 [submodule "Packages/Application/TYPO3.Queue"]
 	path = Packages/Application/TYPO3.Queue
 	url = git://git.typo3.org/FLOW3/Packages/TYPO3.Queue.git
+[submodule "Packages/Application/Pheanstalk"]
+	path = Packages/Application/Pheanstalk
+	url = git://git.typo3.org/FLOW3/Packages/Pheanstalk.git
+[submodule "Packages/Application/TYPO3.Queue.Beanstalkd"]
+	path = Packages/Application/TYPO3.Queue.Beanstalkd
+	url = git://git.typo3.org/FLOW3/Packages/TYPO3.Queue.Beanstalkd.git
+[submodule "Packages/Application/TYPO3.DocTools"]
+	path = Packages/Application/TYPO3.DocTools
+	url = git://git.typo3.org/FLOW3/Packages/TYPO3.DocTools.git
