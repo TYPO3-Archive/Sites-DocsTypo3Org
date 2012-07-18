@@ -14,11 +14,11 @@
 # informative welcome screen.
 
 -
-  name: 'Welcome'
-  uriPattern: '<WelcomeSubroutes>'
+  name: 'Docs'
+  uriPattern: '<DocsSubroutes>'
   subRoutes:
-    WelcomeSubroutes:
-      package: TYPO3.Welcome
+    DocsSubroutes:
+      package: TYPO3.Docs
 
 ##
 # FLOW3 subroutes
