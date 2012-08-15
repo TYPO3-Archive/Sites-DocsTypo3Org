@@ -43,3 +43,6 @@
 [submodule "Packages/Application/TYPO3.Docs"]
 	path = Packages/Application/TYPO3.Docs
 	url = git://github.com/typo3/TYPO3.Docs.git
+[submodule "Packages/Application/RestTools"]
+	path = Packages/Application/RestTools
+	url = git://git.typo3.org/Documentation/RestTools.git
