@@ -46,3 +46,6 @@
 [submodule "Packages/Framework/Symfony.Component.DomCrawler"]
 	path = Packages/Framework/Symfony.Component.DomCrawler
 	url = git://git.typo3.org/FLOW3/Packages/Symfony.Component.DomCrawler.git
+[submodule "Packages/Application/TYPO3.SwiftMailer"]
+	path = Packages/Application/TYPO3.SwiftMailer
+	url = git://git.typo3.org/FLOW3/Packages/TYPO3.SwiftMailer.git
