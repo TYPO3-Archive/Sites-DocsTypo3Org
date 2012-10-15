@@ -39,7 +39,7 @@
 	url = git://git.typo3.org/FLOW3/Packages/TYPO3.Queue.Beanstalkd.git
 [submodule "Packages/Application/TYPO3.Docs"]
 	path = Packages/Application/TYPO3.Docs
-	url = git://github.com/typo3/TYPO3.Docs.git
+	url = git://git.typo3.org/FLOW3/Packages/TYPO3.Docs.git
 [submodule "Packages/Application/RestTools"]
 	path = Packages/Application/RestTools
 	url = git://git.typo3.org/Documentation/RestTools.git
@@ -49,3 +49,6 @@
 [submodule "Packages/Application/TYPO3.SwiftMailer"]
 	path = Packages/Application/TYPO3.SwiftMailer
 	url = git://git.typo3.org/FLOW3/Packages/TYPO3.SwiftMailer.git
+[submodule "Packages/Application/TYPO3.Docs.Build"]
+	path = Packages/Application/TYPO3.Docs.Build
+	url = git://git.typo3.org/FLOW3/Packages/TYPO3.Docs.Build.git
