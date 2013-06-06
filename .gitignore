@@ -1,15 +1,20 @@
 /Build/Archives/
 /Build/Reports/
 /Build/Temporary/
-/Configuration/Production/IncludeCachedConfigurations.php
-/Configuration/PackageStates.php
-Configuration/Development/Settings.yaml
-Configuration/Production/Settings.yaml
-Configuration/Settings.yaml
+/Configuration/
 /Data/
-/Packages/.Shortcuts/
-/Tests/
-/Web/_Resources/
+/Packages/Application/TYPO3.Jobqueue
+/Packages/Application/TYPO3.SwiftMailer
+/Packages/Framework/
+/Packages/Libraries/
+/Web/
+
+/Readme.txt
+/Upgrading.txt
+/flow
+/flow.bat
+/bin/
+/.gitignore
 
 ## Some files and dirs
 # Numerous always-ignore extensions
