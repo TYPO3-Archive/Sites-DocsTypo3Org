@@ -1,12 +1,7 @@
-/Build/Archives/
-/Build/Reports/
-/Build/Temporary/
+/Build/
 /Configuration/
 /Data/
-/Packages/Application/TYPO3.Jobqueue
-/Packages/Application/TYPO3.SwiftMailer
-/Packages/Framework/
-/Packages/Libraries/
+/Packages/
 /Web/
 
 /Readme.txt
